@@ -59,9 +59,8 @@ Hello! I'm a full-stack engineer with over 20 years of development experience. F
 <h2 class="section-title">🌟 Featured Project</h2>
 
 <div class="featured-card" markdown>
-<div class="featured-icon">💎</div>
 
-### jv [/jawa/] - Java Syntactic Sugar
+### <span class="featured-icon">💎</span> jv [/jawa/] - Java Syntactic Sugar
 
 **A new programming language that adds syntactic sugar to Java and transpiles to pure Java**
 
@@ -104,9 +103,8 @@ JV-lang is an innovative programming language targeting Java 25. It dramatically
 <div class="blog-cards" markdown>
 
 <div class="blog-card" markdown>
-<span class="blog-icon">📘</span>
 
-### Zenn
+### <span class="blog-icon">📘</span> Zenn
 
 Publishing technical articles and tutorials. Explaining the latest tech trends and implementation techniques.
 
@@ -114,9 +112,8 @@ Publishing technical articles and tutorials. Explaining the latest tech trends a
 </div>
 
 <div class="blog-card" markdown>
-<span class="blog-icon">✍️</span>
 
-### asopi.tech
+### <span class="blog-icon">✍️</span> asopi.tech
 
 Personal tech blog. Deep-dive technical explanations and behind-the-scenes of projects.
 
@@ -124,9 +121,8 @@ Personal tech blog. Deep-dive technical explanations and behind-the-scenes of pr
 </div>
 
 <div class="blog-card" markdown>
-<span class="blog-icon">🐦</span>
 
-### X (Twitter)
+### <span class="blog-icon">🐦</span> X (Twitter)
 
 Real-time updates on daily development and tech topics. Sharing the latest in IoT and AI.
 
@@ -147,9 +143,8 @@ Real-time updates on daily development and tech topics. Sharing the latest in Io
 <div class="org-cards" markdown>
 
 <div class="org-card" markdown>
-<div class="org-icon">💎</div>
 
-### Project JV-lang
+### <div class="org-icon">💎</div> Project JV-lang
 
 Research and development of a new programming language. Exploring new possibilities through language design and implementation.
 
@@ -157,9 +152,8 @@ Research and development of a new programming language. Exploring new possibilit
 </div>
 
 <div class="org-card" markdown>
-<div class="org-icon">🧠</div>
 
-### HC-GraphRAG
+### <div class="org-icon">🧠</div> HC-GraphRAG
 
 GraphRAG implementation leveraging LlamaIndex and Anthropic. Building advanced AI applications with graph-based RAG.
 

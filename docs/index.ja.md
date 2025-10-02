@@ -59,9 +59,8 @@ AI、プログラミング言語、GraphRAG、クラウドインフラ…<br>
 <h2 class="section-title">🌟 注目プロジェクト</h2>
 
 <div class="featured-card" markdown>
-<div class="featured-icon">💎</div>
 
-### jv [/jawa/] - Java Syntactic Sugar
+### <span class="featured-icon">💎</span> jv [/jawa/] - Java Syntactic Sugar
 
 **Javaに構文糖衣を加えた、Pure Javaにトランスパイルする新しいプログラミング言語**
 
@@ -104,9 +103,8 @@ JV-langは、Java 25をターゲットにした革新的なプログラミング
 <div class="blog-cards" markdown>
 
 <div class="blog-card" markdown>
-<span class="blog-icon">📘</span>
 
-### Zenn
+### <span class="blog-icon">📘</span> Zenn
 
 技術記事やチュートリアルを投稿。最新の技術トレンドや実装テクニックを解説しています。
 
@@ -114,9 +112,8 @@ JV-langは、Java 25をターゲットにした革新的なプログラミング
 </div>
 
 <div class="blog-card" markdown>
-<span class="blog-icon">✍️</span>
 
-### asopi.tech
+### <span class="blog-icon">✍️</span> asopi.tech
 
 個人技術ブログ。深掘りした技術解説やプロジェクトの裏側をお届けします。
 
@@ -124,9 +121,8 @@ JV-langは、Java 25をターゲットにした革新的なプログラミング
 </div>
 
 <div class="blog-card" markdown>
-<span class="blog-icon">🐦</span>
 
-### X (Twitter)
+### <span class="blog-icon">🐦</span> X (Twitter)
 
 日々の開発や技術トピックをリアルタイムで発信。IoT・AI関連の最新情報もシェアしています。
 
@@ -147,9 +143,8 @@ JV-langは、Java 25をターゲットにした革新的なプログラミング
 <div class="org-cards" markdown>
 
 <div class="org-card" markdown>
-<div class="org-icon">💎</div>
 
-### Project JV-lang
+### <div class="org-icon">💎</div> Project JV-lang
 
 新しいプログラミング言語の研究開発。言語設計と実装を通じて新しい可能性を探求します。
 
@@ -157,9 +152,8 @@ JV-langは、Java 25をターゲットにした革新的なプログラミング
 </div>
 
 <div class="org-card" markdown>
-<div class="org-icon">🧠</div>
 
-### HC-GraphRAG
+### <div class="org-icon">🧠</div> HC-GraphRAG
 
 LlamaIndexとAnthropicを活用したGraphRAG実装。グラフベースRAGで高度なAIアプリを構築。
 
