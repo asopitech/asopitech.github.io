@@ -172,23 +172,11 @@ GraphRAG implementation leveraging LlamaIndex and Anthropic. Building advanced A
 
 Feel free to reach out for technical questions, collaboration, or just to chat!
 
-<div style="text-align: center; margin-top: 2rem;">
-  <a href="https://github.com/asopitech" class="md-button" target="_blank">
-    :fontawesome-brands-github: GitHub
-  </a>
-  <a href="https://x.com/asopitech_iot" class="md-button" target="_blank">
-    :fontawesome-brands-twitter: X (Twitter)
-  </a>
-  <a href="https://zenn.dev/asopitech" class="md-button" target="_blank">
-    :fontawesome-solid-rss: Zenn
-  </a>
-  <a href="https://asopi.tech/" class="md-button" target="_blank">
-    :fontawesome-solid-blog: Blog
-  </a>
-  <a href="https://buymeacoffee.com/asopitechia" class="md-button" target="_blank">
-    :fontawesome-solid-mug-hot: Buy me a coffee
-  </a>
-</div>
+- [GitHub](https://github.com/asopitech)
+- [X (Twitter)](https://x.com/asopitech_iot)
+- [Zenn](https://zenn.dev/asopitech)
+- [Blog](https://asopi.tech/)
+- [Buy me a coffee](https://buymeacoffee.com/asopitechia)
 
 </div>
 
