@@ -172,7 +172,7 @@ GraphRAG implementation leveraging LlamaIndex and Anthropic. Building advanced A
 
 Feel free to reach out for technical questions, collaboration, or just to chat!
 
-<div style="text-align: center; margin-top: 2rem;">
+<div style="text-align: center; margin-top: 2rem;" markdown>
 
 [:fontawesome-brands-github: GitHub](https://github.com/asopitech){ .md-button target="_blank" }
 [:fontawesome-brands-twitter: X (Twitter)](https://x.com/asopitech_iot){ .md-button target="_blank" }
@@ -194,7 +194,7 @@ If my projects have been helpful, I'd appreciate your support for continued deve
 
 <div style="text-align: center; margin-top: 1.5rem;">
 
-<a href="https://buymeacoffee.com/asopitechia" target="_blank"><img src="../asset/yellow-button.png" alt="Buy Me A Coffee" width="150"></a>
+<a href="https://buymeacoffee.com/asopitechia" target="_blank"><img src="/asset/yellow-button.png" alt="Buy Me A Coffee" width="150"></a>
 
 </div>
 
