@@ -194,7 +194,7 @@ If my projects have been helpful, I'd appreciate your support for continued deve
 
 <div style="text-align: center; margin-top: 1.5rem;">
 
-<a href="https://buymeacoffee.com/asopitechia" target="_blank"><img src="assets/yellow-button.png" alt="Buy Me A Coffee" width="150"></a>
+<a href="https://buymeacoffee.com/asopitechia" target="_blank"><img src="../asset/yellow-button.png" alt="Buy Me A Coffee" width="150"></a>
 
 </div>
 
