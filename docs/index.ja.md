@@ -172,14 +172,22 @@ LlamaIndexとAnthropicを活用したGraphRAG実装。グラフベースRAGで�
 
 技術的な質問、コラボレーション、雑談など、お気軽にどうぞ！
 
-<div style="text-align: center; margin-top: 2rem;" markdown>
-
-[:fontawesome-brands-github: GitHub](https://github.com/asopitech){ .md-button target="_blank" }
-[:fontawesome-brands-twitter: X (Twitter)](https://x.com/asopitech_iot){ .md-button target="_blank" }
-[:fontawesome-solid-rss: Zenn](https://zenn.dev/asopitech){ .md-button target="_blank" }
-[:fontawesome-solid-blog: ブログ](https://asopi.tech/){ .md-button target="_blank" }
-[:fontawesome-solid-mug-hot: Buy me a coffee](https://buymeacoffee.com/asopitechia){ .md-button target="_blank" }
-
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="https://github.com/asopitech" class="md-button" target="_blank">
+    :fontawesome-brands-github: GitHub
+  </a>
+  <a href="https://x.com/asopitech_iot" class="md-button" target="_blank">
+    :fontawesome-brands-twitter: X (Twitter)
+  </a>
+  <a href="https://zenn.dev/asopitech" class="md-button" target="_blank">
+    :fontawesome-solid-rss: Zenn
+  </a>
+  <a href="https://asopi.tech/" class="md-button" target="_blank">
+    :fontawesome-solid-blog: ブログ
+  </a>
+  <a href="https://buymeacoffee.com/asopitechia" class="md-button" target="_blank">
+    :fontawesome-solid-mug-hot: Buy me a coffee
+  </a>
 </div>
 
 </div>
