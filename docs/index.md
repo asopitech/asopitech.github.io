@@ -1,42 +1,16 @@
-<div class="hero" markdown>
-
 # ASOPITECH
 
-<p class="tagline">Full-Stack Engineer with 20+ Years of Experience</p>
+**Full-Stack Engineer with 20+ Years of Experience**
 
-<p class="description">
-Casually, yet seriously.<br>
-AI, Programming Languages, GraphRAG, Cloud Infrastructure…<br>
+Casually, yet seriously.
+AI, Programming Languages, GraphRAG, Cloud Infrastructure…
 Blending legacy expertise with cutting-edge tech through research and development 🚀
-</p>
 
-<div class="tech-stack">
-  <span class="tech-badge">AI / LLM</span>
-  <span class="tech-badge">Java</span>
-  <span class="tech-badge">GraalVM</span>
-  <span class="tech-badge">Quarkus</span>
-  <span class="tech-badge">TypeScript / JavaScript</span>
-  <span class="tech-badge">Python</span>
-  <span class="tech-badge">Rust</span>
-  <span class="tech-badge">AWS / Azure / GCP</span>
-  <span class="tech-badge">Terraform</span>
-  <span class="tech-badge">CDK</span>
-  <span class="tech-badge">Astro</span>
-  <span class="tech-badge">GraphQL</span>
-  <span class="tech-badge">IoT</span>
-</div>
+**Tech Stack**: AI / LLM | Java | GraalVM | Quarkus | TypeScript / JavaScript | Python | Rust | AWS / Azure / GCP | Terraform | CDK | Astro | GraphQL | IoT
 
-<div class="cta-buttons">
-  <a href="https://zenn.dev/asopitech" class="btn-hero btn-primary" target="_blank">📝 Read Blog</a>
-  <a href="https://github.com/asopitech" class="btn-hero btn-secondary" target="_blank">💻 GitHub</a>
-  <a href="https://buymeacoffee.com/asopitechia" class="btn-hero btn-coffee" target="_blank">☕ Buy me a coffee</a>
-</div>
-
-</div>
+[📝 Read Blog](https://zenn.dev/asopitech) | [💻 GitHub](https://github.com/asopitech) | [☕ Buy me a coffee](https://buymeacoffee.com/asopitechia)
 
 ---
-
-<div class="content-section" markdown>
 
 ## About Me
 
@@ -50,17 +24,11 @@ Hello! I'm a full-stack engineer with over 20 years of development experience. F
 - ✍️ **Tech Writing** - Sharing insights through Zenn and my personal blog
 - 🌐 **Community** - Managing organizations like Project JV-lang and HC-GraphRAG
 
-</div>
-
 ---
 
-<div class="content-section featured-project" markdown>
+## 🌟 Featured Project
 
-<h2 class="section-title">🌟 Featured Project</h2>
-
-<div class="featured-card" markdown>
-
-### <span class="featured-icon">💎</span> jv [/jawa/] - Java Syntactic Sugar
+### 💎 jv [/jawa/] - Java Syntactic Sugar
 
 **A new programming language that adds syntactic sugar to Java and transpiles to pure Java**
 
@@ -82,91 +50,51 @@ JV-lang is an innovative programming language targeting Java 25. It dramatically
 - ✅ **Type Safety** - Catches many errors at compile time
 - ✅ **Legacy Migration** - Gradually modernize existing Java codebases
 
-<div style="margin-top: 1.5rem;">
-
-[📖 Read Documentation](https://project-jvlang.github.io/){ .md-button .md-button--primary target="_blank" }
-[💻 View on GitHub](https://github.com/project-jvlang){ .md-button target="_blank" }
-
-</div>
-
-</div>
-
-</div>
+[📖 Read Documentation](https://project-jvlang.github.io/) | [💻 View on GitHub](https://github.com/project-jvlang)
 
 ---
 
-<div class="content-section" markdown>
+## Tech Blog
 
-<h2 class="section-title">Tech Blog</h2>
-<p class="section-subtitle">Sharing knowledge through technical writing</p>
+Sharing knowledge through technical writing
 
-<div class="blog-cards" markdown>
-
-<div class="blog-card" markdown>
-
-### <span class="blog-icon">📘</span> Zenn
+### 📘 Zenn
 
 Publishing technical articles and tutorials. Explaining the latest tech trends and implementation techniques.
 
-[Read on Zenn →](https://zenn.dev/asopitech){ .card-link target="_blank" }
-</div>
+[Read on Zenn →](https://zenn.dev/asopitech)
 
-<div class="blog-card" markdown>
-
-### <span class="blog-icon">✍️</span> asopi.tech
+### ✍️ asopi.tech
 
 Personal tech blog. Deep-dive technical explanations and behind-the-scenes of projects.
 
-[Visit Blog →](https://asopi.tech/){ .card-link target="_blank" }
-</div>
+[Visit Blog →](https://asopi.tech/)
 
-<div class="blog-card" markdown>
-
-### <span class="blog-icon">🐦</span> X (Twitter)
+### 🐦 X (Twitter)
 
 Real-time updates on daily development and tech topics. Sharing the latest in IoT and AI.
 
-[Follow →](https://x.com/asopitech_iot){ .card-link target="_blank" }
-</div>
-
-</div>
-
-</div>
+[Follow →](https://x.com/asopitech_iot)
 
 ---
 
-<div class="content-section" markdown>
+## Organizations
 
-<h2 class="section-title">Organizations</h2>
-<p class="section-subtitle">Specialized research organizations</p>
+Specialized research organizations
 
-<div class="org-cards" markdown>
-
-<div class="org-card" markdown>
-
-### <div class="org-icon">💎</div> Project JV-lang
+### 💎 Project JV-lang
 
 Research and development of a new programming language. Exploring new possibilities through language design and implementation.
 
-[View Organization →](https://github.com/project-jvlang){ .card-link target="_blank" }
-</div>
+[View Organization →](https://github.com/project-jvlang)
 
-<div class="org-card" markdown>
-
-### <div class="org-icon">🧠</div> HC-GraphRAG
+### 🧠 HC-GraphRAG
 
 GraphRAG implementation leveraging LlamaIndex and Anthropic. Building advanced AI applications with graph-based RAG.
 
-[View Organization →](https://github.com/hc-graphrag){ .card-link target="_blank" }
-</div>
-
-</div>
-
-</div>
+[View Organization →](https://github.com/hc-graphrag)
 
 ---
-
-<div class="content-section" markdown>
 
 ## Contact
 
@@ -178,20 +106,10 @@ Feel free to reach out for technical questions, collaboration, or just to chat!
 - [Blog](https://asopi.tech/)
 - [Buy me a coffee](https://buymeacoffee.com/asopitechia)
 
-</div>
-
 ---
-
-<div class="content-section" markdown>
 
 ## Support
 
 If my projects have been helpful, I'd appreciate your support for continued development 🚀
 
-<div style="text-align: center; margin-top: 1.5rem;">
-
-<a href="https://buymeacoffee.com/asopitechia" target="_blank"><img src="/asset/yellow-button.png" alt="Buy Me A Coffee" width="150"></a>
-
-</div>
-
-</div>
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/asopitechia)
