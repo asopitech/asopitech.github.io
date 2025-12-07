@@ -8,7 +8,7 @@ Blending legacy expertise with cutting-edge tech through research and developmen
 
 **Tech Stack**: AI / LLM | Java | GraalVM | Quarkus | TypeScript / JavaScript | Python | Rust | AWS / Azure / GCP | Terraform | CDK | Astro | GraphQL | IoT
 
-[📝 Read Blog](https://zenn.dev/asopitech) | [💻 GitHub](https://github.com/asopitech) | [☕ Buy me a coffee](https://buymeacoffee.com/asopitechia)
+[📝 Read Blog](https://zenn.dev/asopitech) | [💻 GitHub](https://github.com/asopitech) | [❤️ GitHub Sponsors](https://github.com/sponsors/asopitech) | [☕ Buy me a coffee](https://buymeacoffee.com/asopitechia)
 
 ---
 
@@ -112,4 +112,5 @@ Feel free to reach out for technical questions, collaboration, or just to chat!
 
 If my projects have been helpful, I'd appreciate your support for continued development 🚀
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/asopitechia)
+- [❤️ Become a Sponsor](https://github.com/sponsors/asopitech)
+- [☕ Buy Me A Coffee](https://buymeacoffee.com/asopitechia)

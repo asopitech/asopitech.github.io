@@ -8,7 +8,7 @@ AI、プログラミング言語、GraphRAG、クラウドインフラ…
 
 **技術スタック**: AI / LLM | Java | GraalVM | Quarkus | TypeScript / JavaScript | Python | Rust | AWS / Azure / GCP | Terraform | CDK | Astro | GraphQL | IoT
 
-[📝 ブログを読む](https://zenn.dev/asopitech) | [💻 GitHub](https://github.com/asopitech) | [☕ Buy me a coffee](https://buymeacoffee.com/asopitechia)
+[📝 ブログを読む](https://zenn.dev/asopitech) | [💻 GitHub](https://github.com/asopitech) | [❤️ GitHub Sponsors](https://github.com/sponsors/asopitech) | [☕ Buy me a coffee](https://buymeacoffee.com/asopitechia)
 
 ---
 
@@ -112,4 +112,5 @@ LlamaIndexとAnthropicを活用したGraphRAG実装。グラフベースRAGで�
 
 プロジェクトが役に立ったら、開発を応援していただけると嬉しいです 🚀
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/asopitechia)
+- [❤️ GitHub Sponsors](https://github.com/sponsors/asopitech)
+- [☕ Buy Me A Coffee](https://buymeacoffee.com/asopitechia)
