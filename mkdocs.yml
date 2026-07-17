@@ -49,6 +49,31 @@ plugins:
           build: true
           nav_translations:
             Home: ホーム
+            Nim Architecture Guide: Nim Architecture Guide
+            Introduction: はじめに
+            Overview: 概要
+            Guide scope: このガイドの方針
+            Design philosophy: 設計思想と安全性
+            Language architecture: 言語アーキテクチャ
+            Backends and FFI: バックエンドとFFI
+            Compilation and C interoperability: コンパイルとC相互運用
+            JavaScript backend: JavaScriptバックエンド
+            WebAssembly and MoonBit: WebAssemblyとMoonBit
+            Type system and memory: 型システムとメモリ管理
+            Type system and memory management: 型システムとメモリ管理
+            Compile-time programming: コンパイル時プログラミング
+            Expressiveness and metaprogramming: 表現力とメタプログラミング
+            Runtime and tooling: ランタイムとツール
+            Errors, concurrency, and NimScript: エラー処理・並行処理・NimScript
+            Web development and runtimes: Web開発とランタイム
+            JavaScript engines written in Nim: Nim製JavaScriptエンジン
+            GUI development: GUI開発
+            Numerical computing and AI: 数値計算・AI
+            GPU computing and LLMs: GPU数値計算とLLM
+            Comparisons: 他言語比較
+            Comparison with C, Rust, and Zig: C・Rust・Zigとの比較
+            Practice and adoption: 実践と採用判断
+            Use cases, trade-offs, and adoption: 用途・弱点・採用判断
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -67,6 +92,33 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Nim Architecture Guide:
+      - Introduction:
+          - Overview: nim/index.md
+          - Guide scope: nim/guide-scope.md
+          - Design philosophy: nim/design-and-safety.md
+      - Language architecture:
+          - Language architecture: nim/architecture.md
+      - Backends and FFI:
+          - Compilation and C interoperability: nim/compilation-and-ffi.md
+          - JavaScript backend: nim/javascript-backend.md
+          - WebAssembly and MoonBit: nim/wasm-and-moonbit.md
+      - Type system and memory:
+          - Type system and memory management: nim/types-and-memory.md
+      - Compile-time programming:
+          - Expressiveness and metaprogramming: nim/expressiveness-and-macros.md
+      - Runtime and tooling:
+          - Errors, concurrency, and NimScript: nim/runtime-and-tooling.md
+      - Web development and runtimes:
+          - JavaScript engines written in Nim: nim/javascript-engines.md
+      - GUI development:
+          - GUI development: nim/gui.md
+      - Numerical computing and AI:
+          - GPU computing and LLMs: nim/gpu-and-llm.md
+      - Comparisons:
+          - Comparison with C, Rust, and Zig: nim/comparisons.md
+      - Practice and adoption:
+          - Use cases, trade-offs, and adoption: nim/adoption.md
 
 extra:
   social:
