@@ -12,6 +12,14 @@ Blending legacy expertise with cutting-edge tech through research and developmen
 
 ---
 
+## A Language I Have Been Exploring: Nim
+
+Recently, I have been interested in **Nim** for its expressive syntax and native performance. Its Python-like readability, static typing, and C interoperability make it a compelling language to explore.
+
+[Read the Nim Language Guide →](nim/index.md)
+
+---
+
 ## About Me
 
 Hello! I'm a full-stack engineer with over 20 years of development experience. From enterprise systems to cloud infrastructure and cutting-edge AI technologies, I explore a wide range of technical domains. Whether it's designing programming languages, implementing GraphRAG systems, or building multi-cloud environments, I share my knowledge through open-source projects and technical writing.
