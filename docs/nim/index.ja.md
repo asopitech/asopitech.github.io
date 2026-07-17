@@ -9,11 +9,12 @@ Nimは単なる「Python風の構文を持つ高速言語」ではありませ�
 このサイトは公式リファレンスを複製するのではなく、サイトマップに沿ってNimの設計・内部・実践を段階的に理解するための **Nim Architecture Guide** です。各セクションはサイドバーでも階層表示されます。
 
 1. **はじめに** — [概要](index.ja.md)、[このガイドの方針](guide-scope.md)、[設計思想と安全性](design-and-safety.md)。
-2. **言語全体像** — [言語アーキテクチャ](architecture.md)。
-3. **バックエンドとFFI** — [C/C++との相互運用](compilation-and-ffi.md)、[JavaScript](javascript-backend.md)、[WASMとMoonBit](wasm-and-moonbit.md)。
-4. **型・メモリ・コンパイル時機能** — [型システムとORC/ARC](types-and-memory.md)、[マクロとメタプログラミング](expressiveness-and-macros.md)。
-5. **ランタイム・Web・GUI・AI** — [非同期・NimScript](runtime-and-tooling.md)、[Nim製JSエンジン](javascript-engines.md)、[GUI開発](gui.md)、[GPUとLLM](gpu-and-llm.md)。
-6. **比較と実践** — [C/Rust/Zig比較](comparisons.md)、[用途・弱点・採用判断](adoption.md)。
+2. **チュートリアル** — [セットアップとビルド](getting-started.md)、[基本構文とステートメント](language-basics.md)。
+3. **言語全体像** — [言語アーキテクチャ](architecture.md)。
+4. **バックエンドとFFI** — [C/C++との相互運用](compilation-and-ffi.md)、[JavaScript](javascript-backend.md)、[WASMとMoonBit](wasm-and-moonbit.md)。
+5. **型・メモリ・コンパイル時機能** — [型システムとORC/ARC](types-and-memory.md)、[マクロとメタプログラミング](expressiveness-and-macros.md)。
+6. **ランタイム・Web・GUI・AI** — [非同期・NimScript](runtime-and-tooling.md)、[Nim製JSエンジン](javascript-engines.md)、[GUI開発](gui.md)、[GPUとLLM](gpu-and-llm.md)。
+7. **比較と実践** — [C/Rust/Zig比較](comparisons.md)、[用途・弱点・採用判断](adoption.md)。
 
 未公開のチュートリアル、標準ライブラリ、GUI、システム、エコシステム、ソース読解、ロードマップ、付録は、[このガイドの方針](guide-scope.md)に従い段階的に追加します。
 

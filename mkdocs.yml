@@ -54,6 +54,9 @@ plugins:
             Overview: 概要
             Guide scope: このガイドの方針
             Design philosophy: 設計思想と安全性
+            Tutorial: チュートリアル
+            Setup and builds: セットアップとビルド
+            Language basics and statements: 基本構文とステートメント
             Language architecture: 言語アーキテクチャ
             Backends and FFI: バックエンドとFFI
             Compilation and C interoperability: コンパイルとC相互運用
@@ -97,6 +100,9 @@ nav:
           - Overview: nim/index.md
           - Guide scope: nim/guide-scope.md
           - Design philosophy: nim/design-and-safety.md
+      - Tutorial:
+          - Setup and builds: nim/getting-started.md
+          - Language basics and statements: nim/language-basics.md
       - Language architecture:
           - Language architecture: nim/architecture.md
       - Backends and FFI:
