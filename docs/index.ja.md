@@ -16,7 +16,7 @@ AI、プログラミング言語、GraphRAG、クラウドインフラ…
 
 最近、表現力のある構文とネイティブ性能を両立する **Nim** に注目しています。Python風の書きやすさ、静的型付け、Cとの相互運用性を備えたNimについて、特徴や始め方をまとめました。
 
-[Nim言語の詳細解説を読む →](nim/index.md)
+[Nim言語の詳細解説を読む →](nim/index.md) | [Nimino / Nimculus 紹介記事を読む →](nim/nim-projects.md)
 
 ---
 

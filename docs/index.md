@@ -16,7 +16,7 @@ Blending legacy expertise with cutting-edge tech through research and developmen
 
 Recently, I have been interested in **Nim** for its expressive syntax and native performance. Its Python-like readability, static typing, and C interoperability make it a compelling language to explore.
 
-[Read the Nim Language Guide →](nim/index.md)
+[Read the Nim Language Guide →](nim/index.md) | [Read about Nimino / Nimculus →](nim/nim-projects.md)
 
 ---
 

@@ -77,6 +77,7 @@ plugins:
             Comparison with C, Rust, and Zig: C・Rust・Zigとの比較
             Practice and adoption: 実践と採用判断
             Use cases, trade-offs, and adoption: 用途・弱点・採用判断
+            Nim desktop projects: Nimデスクトッププロジェクト
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -125,6 +126,7 @@ nav:
           - Comparison with C, Rust, and Zig: nim/comparisons.md
       - Practice and adoption:
           - Use cases, trade-offs, and adoption: nim/adoption.md
+          - Nim desktop projects: nim/nim-projects.md
 
 extra:
   social:
