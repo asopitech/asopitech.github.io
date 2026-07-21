@@ -133,4 +133,6 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/asopitech
 
-copyright: Copyright &copy; 2024 Asopitech
+copyright: >
+  Copyright &copy; 2024 Asopitech &middot;
+  <a href="#" id="asopi-consent-settings">Cookie settings</a>
