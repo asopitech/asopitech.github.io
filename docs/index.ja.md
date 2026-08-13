@@ -132,6 +132,12 @@ LlamaIndexとAnthropicを活用したGraphRAG実装。グラフベースRAGで�
 
 [組織を見る →](https://github.com/hc-graphrag)
 
+### 🦊 Alopex DB
+
+Rustで実装する統合データベースエンジンの開発。SQL・ベクトル検索・グラフを単一バイナリで提供し、組み込みファイルから分散クラスタまでスケールします。
+
+[組織を見る →](https://github.com/alopex-db) | [サイトを見る →](https://alopex-db.github.io/)
+
 ---
 
 ## 連絡先
