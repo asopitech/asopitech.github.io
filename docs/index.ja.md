@@ -62,6 +62,36 @@ JV-langは、Java 25をターゲットにした革新的なプログラミング
 
 ---
 
+## 🧪 Asopitech Labs
+
+[Asopitech Labs](https://github.com/asopitech-labs) で開発中のプロジェクトです。それぞれドキュメントサイトを公開しています。
+
+### 🎛️ Poiera — AIエージェントに境界のある自律性を
+
+コンパクトなアプリケーション契約を、認可・デプロイ・検証済みのリリースへ変換するエージェントネイティブなコントロールプレーン。
+
+[サイトを見る →](https://asopitech-labs.github.io/poiera/) | [GitHub →](https://github.com/asopitech-labs/poiera)
+
+### 🎭 Theatora — 舞台を変えても、コードはそのまま
+
+ケイパビリティ・モジュール・プロバイダー・ランタイムを組み合わせて、自分のアプリケーションバックエンドを構築するキット。
+
+[サイトを見る →](https://asopitech-labs.github.io/theatora/) | [GitHub →](https://github.com/asopitech-labs/theatora)
+
+### 🌱 Rhyzora — 意味は一つ、インターフェースは無数に
+
+宣言的なアプリケーション契約・エンジン契約から、CLI・TUI・Web・デスクトップ・MCPのインターフェースを生成します。
+
+[サイトを見る →](https://asopitech-labs.github.io/rhyzora/) | [GitHub →](https://github.com/asopitech-labs/rhyzora)
+
+### 📦 TUBUSA/備 — ポストERPの事業実行基盤
+
+ERP・業務アプリ・Excelに分散した顧客・案件・契約・仕事・資源・金銭を、一つの共有された事業実体として扱い、観測・判断・実行をつなぎます。
+
+[サイトを見る →](https://asopitech-labs.github.io/tubusa-contexum-pages/) | [GitHub →](https://github.com/asopitech-labs/tubusa-contexum-pages)
+
+---
+
 ## Tech Blog
 
 技術ブログで知見を共有しています

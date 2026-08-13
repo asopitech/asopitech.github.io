@@ -62,6 +62,36 @@ JV-lang is an innovative programming language targeting Java 25. It dramatically
 
 ---
 
+## 🧪 Asopitech Labs
+
+Projects under development at [Asopitech Labs](https://github.com/asopitech-labs), each with its own documentation site.
+
+### 🎛️ Poiera — Bounded autonomy for AI agents
+
+An agent-native control plane that turns compact application contracts into authorized, deployed, and verified releases.
+
+[Visit Site →](https://asopitech-labs.github.io/poiera/) | [GitHub →](https://github.com/asopitech-labs/poiera)
+
+### 🎭 Theatora — Change the theatre. Keep the code.
+
+A composable kit for building your own application backend from capabilities, modules, providers, and runtimes.
+
+[Visit Site →](https://asopitech-labs.github.io/theatora/) | [GitHub →](https://github.com/asopitech-labs/theatora)
+
+### 🌱 Rhyzora — One meaning. Every interface.
+
+Build CLI, TUI, Web, desktop, and MCP interfaces from declarative application and engine contracts.
+
+[Visit Site →](https://asopitech-labs.github.io/rhyzora/) | [GitHub →](https://github.com/asopitech-labs/rhyzora)
+
+### 📦 TUBUSA/備 — A post-ERP business execution platform
+
+Treats customers, deals, contracts, work, resources, and money — scattered across ERP, business apps, and Excel — as one shared business entity, connecting observation, decision, and execution.
+
+[Visit Site →](https://asopitech-labs.github.io/tubusa-contexum-pages/) | [GitHub →](https://github.com/asopitech-labs/tubusa-contexum-pages)
+
+---
+
 ## Tech Blog
 
 Sharing knowledge through technical writing
