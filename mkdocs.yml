@@ -1,12 +1,14 @@
 site_name: Asopitech
 site_url: https://asopitech.github.io/
-site_description: Asopitech Landing Page
+site_description: asopitech — 20年以上のフルスタック開発と、Nim・AI・分散システムの研究開発。Nim Architecture Guide（日英対訳）を公開しています。 / An independent developer's site, home of the bilingual Nim Architecture Guide.
 site_author: Asopitech
 
 theme:
   name: material
   language: en
   custom_dir: overrides
+  logo: assets/brand/mark-asopitech-square-96.png
+  favicon: assets/brand/favicon-asopitech-plate-48.png
   palette:
     - scheme: default
       primary: indigo
@@ -132,6 +134,16 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/asopitech
+      name: asopitech on GitHub
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/asopitech_iot
+      name: asopitech on X
+    - icon: fontawesome/solid/pen-nib
+      link: https://zenn.dev/asopitech
+      name: 技術記事 / articles on Zenn
+    - icon: fontawesome/solid/heart
+      link: https://github.com/sponsors/asopitech
+      name: GitHub Sponsors
 
 copyright: >
   Copyright &copy; 2024 Asopitech &middot;

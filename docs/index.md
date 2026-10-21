@@ -134,7 +134,7 @@ GraphRAG implementation leveraging LlamaIndex and Anthropic. Building advanced A
 
 ### 🦊 Alopex DB
 
-Development of a unified database engine written in Rust. Provides SQL, vector search, and graph capabilities in a single binary, scaling from an embedded file to a distributed cluster.
+Development of a unified database engine written in Rust. Provides SQL, vector search (HNSW), and columnar storage in a single binary, scaling from an embedded file to a distributed cluster. A Graph / Lake-Link track is published on the roadmap as planned work.
 
 [View Organization →](https://github.com/alopex-db) | [Visit Site →](https://alopex-db.github.io/)
 
